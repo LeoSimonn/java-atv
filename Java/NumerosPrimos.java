@@ -1,3 +1,4 @@
+package Java;
 import java.lang.Math;
 
 public class NumerosPrimos {

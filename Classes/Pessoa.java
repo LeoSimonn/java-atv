@@ -1,3 +1,5 @@
+package Classes;
+
 public class Pessoa {
     
 
@@ -23,4 +25,5 @@ public Pessoa(String nome, int idade, double altura, String cpf, boolean tomacaf
 // Métodos ou Comportamentos
 public String respondeNome() {
     return this.nome;
+}
 }
