@@ -1,6 +1,5 @@
-import java.util.Arrays;
-
 import Vetores.OperadorDeVetores;
+import java.util.Arrays;
 
 public class Main {
     
